@@ -8,3 +8,4 @@ Based on materials found in internet
 - old tutsplusd tutorials 
 
 ## Few projects that was used as basis for developed products
+ - 1. simple sketch app - based on keyboard movement
