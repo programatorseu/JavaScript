@@ -7,4 +7,4 @@ Based on materials found in internet
 - no starch book about JS 
 - old tutsplusd tutorials 
 
-&& many more. 
+## Few projects that was used as basis for developed products
