@@ -10,3 +10,4 @@ Based on materials found in internet
 ## Few projects that was used as basis for developed products
  - 1. simple sketch app - based on keyboard movement
  - 2. modal (open modal window with passed information based on click) 
+ - 3. terms-conditions ( `IntersectionObserver` we use threshold - 1 when is 100% on page)
