@@ -1,0 +1,15 @@
+body {
+    min-height: 100vh;
+    display: grid;
+    align-items: center;
+}
+.typer {
+    margin: 0 auto;
+    background:bisque;
+    width: 500px;
+    padding: 2rem;
+    border-radius: 3px;
+}
+textarea {
+    width: 100%;
+}
